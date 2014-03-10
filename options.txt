@@ -1,0 +1,7 @@
+Change computer speed
+change number of cards in payoff
+change number of cards in hand
+change number of center stacks
+change number of side stacks
+Jokers can't be
+(later) kings as wild
